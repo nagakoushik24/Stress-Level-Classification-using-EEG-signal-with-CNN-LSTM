@@ -52,7 +52,7 @@ Key Highlights:
 
 - EEG Dataset for Cognitive Load and Stress Assessment During Task Performance
 
-**Link**: https://www.sciencedirect.com/science/article/pii/S2352340921010465[https://www.sciencedirect.com/science/article/pii/S2352340921010465]
+**Link**: [https://www.sciencedirect.com/science/article/pii/S2352340921010465](https://www.sciencedirect.com/science/article/pii/S2352340921010465)
 
 - This EEG dataset, sourced from a study on cognitive load and stress, includes recordings from participants performing tasks such as the Stroop Color-Word test, arithmetic problem-solving, and mirror image recognition. EEG signals were captured across multiple trials, with subjects providing stress ratings on a scale of 1-10 after each task. 
 - It has 32 Channels of EEG signal for each person
